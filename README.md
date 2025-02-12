@@ -1,0 +1,1 @@
+Deprecaited in favour of simpler, and more adaptive HTMLfromFileWithVariables project. This new project (built by me) can read the html template from a text file, populate the varaibles and send the email
